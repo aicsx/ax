@@ -3,7 +3,7 @@ email: ax@slackware.eu
 description: >- # this means to ignore newlines until "baseurl:"
   ax - My Personal Page ex/linuax
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://aicsx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://aicsx.github.io/ax" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  aicsx
 
 # Build settings
