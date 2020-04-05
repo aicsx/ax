@@ -10,8 +10,8 @@ categories: blog
 $ jekyll new aicsx.github.io/ax
 {% endhighlight %}
 
-Recently I have dedicated myself to many things.
-In particular, faithful to my thoughts: 
+Recently I have dedicated my time to many things.
+Faithfully to my point of you: 
 Slackware forever, but currently moved on [BSD] :: [CRUX] :: [KISS] :: [ATARAXIA]
 
 [BSD]:  https://www.freebsd.org
@@ -19,5 +19,5 @@ Slackware forever, but currently moved on [BSD] :: [CRUX] :: [KISS] :: [ATARAXIA
 [KISS]: https://k1ss.org
 [ATARAXIA]: https://ataraxialinux.github.io
 <p>&nbsp;</p>
-This leads me to create things that I need for various environments. 
-I hope they can be useful, but also not. This is fine with me.
+It leads me to create things that I need for various environments. 
+I hope they can be useful, but also not. It is fine with me.
