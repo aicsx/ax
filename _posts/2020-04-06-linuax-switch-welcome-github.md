@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "linuax switch - Welcome Github"
-date:   2020-04-05 03:01:42 +0200
+date:   2020-04-06 01:01:42 +0200
 categories: blog 
 ---
 # New minimal static site start here!
