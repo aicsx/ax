@@ -5,13 +5,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/ax" # the subpath of your site, e.g. /blog
-url: "https://github.com/aicsx" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://aicsx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  aicsx
 
 # Build settings
 theme: jekyll-theme-console
 plugins:
-  - jekyll-feed
+  - jekyll-seo-tag
 
 # config theme
 
