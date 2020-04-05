@@ -1,0 +1,7 @@
+---
+title: /
+layout: home
+permalink: /
+---
+# $ cat index.md
+Hello World! I'm ax
