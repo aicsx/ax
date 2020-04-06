@@ -5,6 +5,7 @@
   <title>{{ page.title }}</title>
   {%- seo title=false -%}
 
+  <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl | prepend: site.url }}" />
   {%- if site.listen_for_clients_preferred_style -%}
     <link rel="stylesheet" type="text/css" href="{{ "/assets/main.css" | relative_url }}">
   {%- else -%}
