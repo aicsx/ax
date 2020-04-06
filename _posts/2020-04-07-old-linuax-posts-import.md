@@ -4,7 +4,7 @@ title:  "import posts from w to j :: OK"
 date:   2020-04-07 00:02:10 +0200
 categories: blog 
 ---
-### linuax posts import :: OK
+### $ linuax posts import :: OK
 
 With a little patience and free evening, I restored all the articles and tutorials from the old site. I deleted some articles written with code because they will subsequently be available on repositories. Obviously the import from wordpress to jekyll could create links problems. If you are find issues, you can report them directly to the repository and I will fix it. See summary.
 
