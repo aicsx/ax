@@ -7,7 +7,7 @@ url: "https://aicsx.github.io" # the base hostname & protocol for your site, e.g
 github_username:  aicsx
 
 # Build settings
-theme: jekyll-theme-console
+remote_theme: aicsx/jekyll-theme-console
 plugins:
   - jekyll-seo-tag
 
