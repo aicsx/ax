@@ -12,8 +12,10 @@ $ jekyll new aicsx.github.io/ax
 
 Recently I have dedicated my time to many things.
 Faithfully to my point of you: 
-Slackware forever, but currently moved on [BSD] :: [CRUX] :: [KISS] :: [ATARAXIA] :: [SPARK]
+[Slackware] forever, 
+but currently moved on [BSD] :: [CRUX] :: [KISS] :: [ATARAXIA] :: [SPARK]
 
+[Slackware]: https://www.slackware.com
 [BSD]:  https://www.freebsd.org
 [CRUX]: https://crux.nu
 [KISS]: https://k1ss.org
