@@ -12,12 +12,13 @@ $ jekyll new aicsx.github.io/ax
 
 Recently I have dedicated my time to many things.
 Faithfully to my point of you: 
-Slackware forever, but currently moved on [BSD] :: [CRUX] :: [KISS] :: [ATARAXIA]
+Slackware forever, but currently moved on [BSD] :: [CRUX] :: [KISS] :: [ATARAXIA] :: [SPARK]
 
 [BSD]:  https://www.freebsd.org
 [CRUX]: https://crux.nu
 [KISS]: https://k1ss.org
 [ATARAXIA]: https://ataraxialinux.github.io
+[SPARK]: https://fleshless.org/pages/spark.html
 <p>&nbsp;</p>
 It leads me to create things that I need for various environments. 
 I hope they can be useful, but also not. It is fine with me.
