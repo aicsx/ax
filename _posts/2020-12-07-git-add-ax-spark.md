@@ -13,18 +13,17 @@ In the COVID-19 time i fixed my old asus x555lab notebook with small ram upgrade
 
 **Precautions if you use this asus model:**
 
-- MEDIATEK Corp. MT7630e 802.11bgn Wireless Network Adapter 
-  
-  "device include BT module"
+MEDIATEK Corp. MT7630e 802.11bgn Wireless Network Adapter 
+
+"device include BT module".
 
 *linux: external dongle is required. Bluetooth issue if kernel > 4.x*
 
-**bsd: external dongle is required.  Wireless missing driver*
+*bsd: external dongle is required.  Wireless missing driver*
 
 
 
 **Report:** with 15-20€ you can get both and eliminate the problems. 
-
 My  choice:
 
 1. Tp-link TL-WN823N USB Wireless 
