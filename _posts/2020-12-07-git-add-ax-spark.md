@@ -21,9 +21,9 @@ In the COVID-19 time i fixed my old asus x555lab notebook with small ram upgrade
 
 **bsd: external dongle is required.  Wireless missing driver*
 
+
+
 **Report:** with 15-20€ you can get both and eliminate the problems. 
-
-
 
 My  choice:
 
@@ -34,8 +34,8 @@ My  choice:
 2. Plugable Bluetooth USB Adapter 4.0 LE 
    
    "tested on Slackware,Crux,Kiss,Spark,Artix,Devuan: it's full compatible"
-
-
+   
+   
 
 #### Result:
 
