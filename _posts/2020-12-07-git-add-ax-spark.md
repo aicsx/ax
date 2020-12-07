@@ -11,6 +11,8 @@ In the COVID-19 time i fixed my old asus x555lab notebook with small ram upgrade
 
 
 
+
+
 **Precautions if you use this asus model:**
 
 MEDIATEK Corp. MT7630e 802.11bgn Wireless Network Adapter 
@@ -38,7 +40,7 @@ My  choice:
 
 #### Result:
 
-Full compatible linux laptop for my music job and full compatible **bsd laptop for my life.  
+Full compatible linux laptop for my music job and full compatible *bsd laptop for my life.  
 
 #### Suggestion:
 
