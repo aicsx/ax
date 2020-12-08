@@ -11,8 +11,6 @@ In the COVID-19 time i fixed my old asus x555lab notebook with small ram upgrade
 
 
 
-
-
 **Precautions if you use this asus model:**
 
 MEDIATEK Corp. MT7630e 802.11bgn Wireless Network Adapter 
@@ -34,7 +32,9 @@ My  choice:
 
 2. Plugable Bluetooth USB Adapter 4.0 LE 
    
-   "tested on Slackware,Crux,Kiss,Spark,Artix,Devuan: it's full compatible"
+   "tested on Slackware,Crux,Kiss,Spark,Artix,Devuan: it's full compatible" 
+   
+   
    
    
 
