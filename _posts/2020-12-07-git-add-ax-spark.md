@@ -35,8 +35,6 @@ My  choice:
    "tested on Slackware,Crux,Kiss,Spark,Artix,Devuan: it's full compatible" 
    
    
-   
-   
 
 #### Result:
 
