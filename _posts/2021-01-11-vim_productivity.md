@@ -22,7 +22,7 @@ I share a short shoutcast, times are stretched to show keys.
 The real ones are incredibly productive.
 
 <br>
-:open [vim\_pro\_11-01-2021_12-06.gif](https://aicsx.github.io/ax/images/vim_pro_11-01-2021_12-06.gif)
+`:open` [vim_pro_11-01-2021_12-06.gif](https://aicsx.github.io/ax/images/vim_pro_11-01-2021_12-06.gif)
 
 <br>
 
