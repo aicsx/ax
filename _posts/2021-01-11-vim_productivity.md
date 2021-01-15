@@ -45,4 +45,4 @@ In my .vimrc they are respectively:
 
 <br>
 
-`Super + v | Super + s `
+`Shift + v | Shift + s `
