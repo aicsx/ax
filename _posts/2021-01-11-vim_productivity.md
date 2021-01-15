@@ -6,7 +6,9 @@ categories: blog
 ---
 
 ### `$ v`
+
 <br>
+
 My daily use of wm like i3, spectrwm, bspwm, dwm generated terminal abuse
 
 which slows down the production process. Using 4 or 5 keyboard mappings
@@ -22,6 +24,7 @@ I share a short shoutcast, times are stretched to show keys.
 The real ones are incredibly productive.
 
 <br>
+
 `:open` [vim_pro_11-01-2021_12-06.gif](https://aicsx.github.io/ax/images/vim_pro_11-01-2021_12-06.gif)
 
 <br>
@@ -31,3 +34,15 @@ The real ones are incredibly productive.
 <br>
 
 `:wq`
+
+<br>
+
+*Errata corrige:* 
+
+in the screenshot, the horizontal and vertical split are classic key bindings. 
+
+In my .vimrc they are respectively:
+
+<br>
+
+`Super + v | Super + s `
