@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "git add images/scrot/ax-spark.png"
+title:  "images/scrot/ax-spark.png"
 date:   2020-12-07 12:20:10 +0200
 categories: blog 
 ---
