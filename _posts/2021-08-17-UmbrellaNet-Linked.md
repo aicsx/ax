@@ -5,7 +5,6 @@ date:   2021-08-17 18:26:10 +0200
 categories: blog 
 ---
 # [UmbrellaNet] – The multi IRC network project 
-<p>&nbsp;</p>
 ## About
 The Umbrella IRC network is an initiative of IRC operators 
 from various networks. It is an IRC network with multiple 
@@ -23,10 +22,7 @@ guarantee the continuity of the network.
 [UmbrellaNet] is an idea of a group of IRC operators to create 
 a way to combine IRC networks without having to give up 
 identity or having excessive politics.
-<p>&nbsp;</p>
-# SLK ipv4/6 - experimental server 
-# Linked
-<p>&nbsp;</p>
+# (SLK ipv4/6 - experimental server) - Linked
 ## Summary
 It has been a while since I joined this network.
 I was invited for the first time for common interests 
