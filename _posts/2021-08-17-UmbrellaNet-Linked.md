@@ -28,10 +28,9 @@ I was invited for the first time for common interests
 in the *unix* and *security* world by a great friend.
 I have had the pleasure of meeting many new friends. 
 Knowledgeable and friendly people.
-<p>&nbsp;</p>
 I was happy to be invited to link my IRC server.
 <p>&nbsp;</p>
-The **SLK** network avaiable with irc client:
-**irc1.slackware.eu 6667/6697(ssl)**
+The **SLK** server avaiable with irc client:
+> **irc1.slackware.eu 6667/6697(ssl)**
 
 [UmbrellaNet]: https://umbrellanet.org/
