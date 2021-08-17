@@ -30,7 +30,7 @@ I have had the pleasure of meeting many new friends.
 Knowledgeable and friendly people.
 I was happy to be invited to link my IRC server.
 <p>&nbsp;</p>
-The **SLK** server avaiable with irc client:
+The **SLK** server is now avaiable at:
 > **irc1.slackware.eu 6667/6697(ssl)**
 
 [UmbrellaNet]: https://umbrellanet.org/
