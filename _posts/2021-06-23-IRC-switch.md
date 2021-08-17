@@ -7,10 +7,12 @@ categories: blog
 # Bye freenode! Welcome Libera.Chat 
 <p>&nbsp;</p>
 It was clear!
-I moved from IRC freenode to a new host, [Libera.Chat], 
-which is run by a Swedish non-profit organisation.  
+I moved from IRC freenode to a new host,
+[Libera.Chat], which is run by a Swedish
+non-profit organisation.  
 <p>&nbsp;</p>
-Obviously I am also in other networks. See [/contact].
+Obviously I am also in other networks. 
+See [/contact].
 
 [Libera.Chat]: https://libera.chat/
 [/contact]: https://aicsx.github.io/ax/contact
