@@ -22,8 +22,7 @@ guarantee the continuity of the network.
 [UmbrellaNet] is an idea of a group of IRC operators to create 
 a way to combine IRC networks without having to give up 
 identity or having excessive politics.
-# (SLK ipv4/6 - experimental server) - Linked
-## Summary
+# News: (SLK ipv4/6 - experimental server) - Linked
 It has been a while since I joined this network.
 I was invited for the first time for common interests 
 in the *unix* and *security* world by a great friend.
