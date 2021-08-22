@@ -163,4 +163,4 @@ E quindi salvate le modifiche:
 ~$ xwmconfig            ### dove sceglieremo Fluxbox
 ~$ startx</pre>
 
-<pre><img class="alignnone size-medium wp-image-185" title="fluxbox_screen_default" src="http://linuax.files.wordpress.com/2009/01/fluxbox_screen1.jpg?w=300" alt="fluxbox_screen_default" width="300" height="225" /> # END</pre>
+# END
