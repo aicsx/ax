@@ -6,10 +6,10 @@ permalink: /contact
 {% highlight bash %}
 $ cat IRC.md
 {% endhighlight %}
-__ax []__ slackware.eu, *Ircnet*
-__ax []__ 127.0.0.1, *UmbrellaNet*
-__ax []__ user/ax, *Libera.Chat*
-__ax []__ slackware.eu, *OFTC*
+__ax__ [] slackware.eu, *Ircnet*
+__ax__ [] 127.0.0.1, *UmbrellaNet*
+__ax__ [] user/ax, *Libera.Chat*
+__ax__ [] slackware.eu, *OFTC*
 {% highlight bash %}
 $ cat mail.md
 {% endhighlight %}
