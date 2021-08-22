@@ -5,3 +5,4 @@ permalink: /
 ---
 ### $ cat index.md
 Hello World!
+### $ ls
