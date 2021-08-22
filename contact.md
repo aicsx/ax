@@ -8,8 +8,8 @@ $ cat contact.md
 {% endhighlight %}
 <p>&nbsp;</p>
 **IRC: ax [@]** slackware.eu, *Ircnet*
-**     ax [@]** 127.0.0.1, *UmbrellaNet* 
-**     ax [@]** user/ax, *Libera.Chat* 
-**     ax [@]** slackware.eu, *OFTC*
+     __ax [@]__ 127.0.0.1, *UmbrellaNet*
+     __ax [@]__ user/ax, *Libera.Chat*
+     __ax [@]__ slackware.eu, *OFTC*
 
 **MAIL: ax** *at* **slackware** *dot* **eu**
