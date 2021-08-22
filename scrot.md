@@ -3,7 +3,9 @@ title: /scrot
 layout: page
 permalink: /scrot
 ---
-### $ ls
+{% highlight bash %}
+$ ls
+{% endhighlight %}
 <p>&nbsp;</p>
 ax - KISS 
 - ![ax-KISS](/images/scrot/ax-kiss.jpg){:class="img-responsive" :height="800px" width="600px"}
@@ -13,5 +15,7 @@ ax - CRUX
 <p>&nbsp;</p>
 ax - SPARK
 - ![ax-SPARK](/images/scrot/ax-spark.png){:class="img-responsive" :height="800px" width="600px"}
-### $ cat NOTE.md
+{% highlight bash %}
+$ cat NOTE.md
+{% endhighlight %}
 *for full resolution open image in new tab*

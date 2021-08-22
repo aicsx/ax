@@ -3,11 +3,13 @@ title: /contact
 layout: page
 permalink: /contact
 ---
-### $ cat contact.md
+{% highlight bash %}
+$ cat contact.md
+{% endhighlight %}
 <p>&nbsp;</p>
 **IRC: ax []** *Ircnet ::* 
-               *UmbrellaNet ::* 
-               *Libera.Chat ::* 
-               *OFTC ::*
+             *UmbrellaNet ::* 
+             *Libera.Chat ::* 
+             *OFTC ::*
 
 **MAIL: ax** *at* **slackware** *dot* **eu**
