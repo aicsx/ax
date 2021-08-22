@@ -121,7 +121,7 @@ Non ci resta che modificare il file _~/.fluxbox/menu_ copiando ed incollando da 
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="http://linuax.altervista.org/blog/2009/01/05/configurare-fluxbox-menuicone-e-terminale/" target="_blank">Configurare fluxbox - menu, icone ed emulatore di terminale</a></strong>
+  <strong><a href="https://aicsx.github.io/ax/2009/01/05/configurare-fluxbox-menuicone-e-terminale/" target="_blank">Configurare fluxbox - menu, icone ed emulatore di terminale</a></strong>
 </p>
 
 <p style="text-align: center;">

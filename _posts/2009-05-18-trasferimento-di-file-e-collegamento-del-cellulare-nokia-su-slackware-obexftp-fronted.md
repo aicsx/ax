@@ -281,8 +281,6 @@ Effettuate le modifiche e creato il  file di start avviamo il Frontend Obextool
 
 <pre>~$ sh ~/obextool/startup-obextool.sh
 
-<img class="alignnone size-full wp-image-724" title="obextool" src="http://linuax.files.wordpress.com/2009/05/obextool.png" alt="obextool" width="455" height="358" /></pre>
-
 **Frontend via <a href="http://sourceforge.net/projects/obexftpfrontend/" target="_blank">Obexftp-Frontend</a> in java.**
 
 Il procedimento è nettamente più semplice del precedente, dato che il frontend è in formato **binario** e quindi è sufficiente scaricarlo ed avviarlo:
@@ -304,6 +302,5 @@ e modificare:
 
 **NB**: Per un corretto funzionamento bisogna spuntare l'opzione **"Device info fetching"** disattivando l'opzione nel caso di connessione **USB**.
 
-<pre><img class="alignnone size-full wp-image-725" title="obexftp-frontend" src="http://linuax.files.wordpress.com/2009/05/obexftp-frontend.jpg" alt="obexftp-frontend" width="455" height="341" /></pre>
 
 \# End

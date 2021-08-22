@@ -28,8 +28,6 @@ _Come evitare tutto ciò?_
 
 Certo che si, grazie a **:** **DownloadHelper**.
 
-<img class="alignnone size-full wp-image-591" title="1215002155" src="http://linuax.files.wordpress.com/2009/04/1215002155.gif" alt="1215002155" width="200" height="150" /> 
-
 **DownloadHelper** è un plugin per **Firefox** che permette di scaricare in  locale ogni tipo di contenuto multimediale (audio & video) dal web, flash incluso.
 
 Una volta installata, l’estensione piazza un’icona sulla barra di navigazione, da cui è possibile accedere alle diverse funzioni: recarsi sui siti di content multimediale (inclusi quelli xxx) oppure scaricare in locale l’audio o il video sulla pagina in cui si naviga.
