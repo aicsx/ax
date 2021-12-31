@@ -15,7 +15,7 @@ ax - CRUX
 <p>&nbsp;</p>
 ax - SPARK
 - ![ax-SPARK](/images/scrot/ax-spark.png){:class="img-responsive" :height="800px" width="600px"}
-{<p>&nbsp;</p>
+<p>&nbsp;</p>
 ax - GNOME
 - ![ax-GNOME](/images/scrot/ax-gnome.png){:class="img-responsive" :height="800px" width="600px"}
 {% highlight bash %}
