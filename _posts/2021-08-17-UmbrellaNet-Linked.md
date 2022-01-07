@@ -1,11 +1,8 @@
 ---
 layout: post
 title:  "UmbrellaNet Linked"
-<<<<<<< HEAD
-=======
 date:   2021-08-17 18:26:10 +0200
 categories: blog 
->>>>>>> parent of 82061d7 (new post:teclast)
 ---
 {% highlight bash %}
 $ cat ABOUT
