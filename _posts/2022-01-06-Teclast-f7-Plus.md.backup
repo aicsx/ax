@@ -56,10 +56,18 @@ Webcam:          yes  fswebcam(1) can get pictures from it.
 Wireless:        yes  Intel AC 3165 attached to iwm(4).
 {% endhighlight %}
 
+## And on Linux
+
+I have installed artix & arch linux without problems and in a completely functional way. I've changed some boot and kernel options but I'll talk about that later. In any case it was functional from the first start.
 
 ## Result 
 
-I will not repeat the things already said in the cited article. I find it realistic. I found a great support at a very low cost and suitable for everyday use. Except for the audio which is very poor. For this reason I have attached a Steinberg UR22 MKII sound card USB Audio Interface ... recognized as basic and seems to work fine for my needs. I will talk about this at another time.
+I will not repeat the things already said in the cited article. I find it realistic. I found a great support at a very low cost and suitable for everyday use. Except for the audio which is very poor. For this reason I have attached a Steinberg UR22 MKII sound card USB Audio Interface ... recognized as basic and 
+seems to work fine for my needs. I will talk about this at another time.
 <p>&nbsp;</p>
+
+## therefore?
+
+it is the best wrong purchase for me ... but it has posed new questions and solutions to me. I can only consider it my best low cost purchase for those who want a usable full unix / linux laptop. The best solution of 2021 as far as I'm concerned. Highly recommended as long as you are willing to remove the bottom screw panel every time you persist in changing the boot options on linux. Unnecessary thing. I am currently writing about arch current with a Windows base boot option. And everything seems to work the same. PROMOTED!
 
 [OPENBSD on Teclast F7 PLUS]: https://www.tumfatig.net/2020/openbsd-on-teclast-f7-plus/
