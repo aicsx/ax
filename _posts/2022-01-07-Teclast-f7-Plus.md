@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Teclast F7 Plus - Unix/Linux"
-date: 2022-01-06 23:58:10 +0200
+date: 2022-01-07 01:38:10 +0200
 categories: blog 
 ---
 {% highlight bash %}
