@@ -17,8 +17,9 @@ The solution is to simply.  Compile and install the firmware.
 ```bash
 ~$ git clone https://aur.archlinux.org/aic94xx-firmware.git
 ~$ cd aic94xx-firmware
-~ $ makepkg -sri
+~$ makepkg -sri
 ```
+
 ```bash
 ~$ git clone https://aur.archlinux.org/wd719x-firmware.git
 ~$ cd wd719x-firmware
