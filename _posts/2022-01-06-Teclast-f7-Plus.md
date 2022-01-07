@@ -27,6 +27,7 @@ $ cat experience.md
 ## UNIX - OpenBSD/FreeBSD/FuguITA/NomadBSD 
 I was fascinated by the build quality so after researching I relied on what I had been looking for before doing the tests. Starting from my research my reference was: [OPENBSD on Teclast F7 PLUS]
 Regarding UNIX: I gladly installed openbsd 7.0. The current version is OpenBSD 7.0. released October 14, 2021. This is the 51st version. Same result with FuguIta (also called Swiss Army Knife of Pork) which is very operational even if with very small differences. I tried and stressed the hard disk also trying with Freebsd 13 and with the respective live nomadbsd. The result was amazing. Different from my expectations.
+
 Hardware support overview
 
 Most of the hardware works but there are two main issues:
@@ -64,7 +65,6 @@ I have installed artix & arch linux without problems and in a completely functio
 
 I will not repeat the things already said in the cited article. I find it realistic. I found a great support at a very low cost and suitable for everyday use. Except for the audio which is very poor. For this reason I have attached a Steinberg UR22 MKII sound card USB Audio Interface ... recognized as basic and 
 seems to work fine for my needs. I will talk about this at another time.
-<p>&nbsp;</p>
 
 ## therefore?
 
