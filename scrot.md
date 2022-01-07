@@ -3,9 +3,9 @@ title: /scrot
 layout: page
 permalink: /scrot
 ---
-{% highlight bash %}
-~$ ls
-{% endhighlight %}
+```bash
+$ ls
+```
 <p>&nbsp;</p>
 ax - [KISS]
 - ![ax-KISS](/images/scrot/ax-kiss.jpg){:class="img-responsive" :height="800px" width="600px"}
@@ -18,9 +18,9 @@ ax - [SPARK]
 <p>&nbsp;</p>
 ax - [ARCH]
 - ![ax-ARCH](/images/scrot/ax-gnome.png){:class="img-responsive" :height="800px" width="600px"}
-{% highlight bash %}
+```bash
 ~$ cat NOTE.md
-{% endhighlight %}
+```
 *for full resolution open image in new tab*
 
 [KISS]: https://kisslinux.org/

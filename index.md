@@ -3,13 +3,14 @@ title: /
 layout: home
 permalink: /
 ---
-{% highlight bash %}
-~$ cat index.md
-{% endhighlight %}
+```bash
+$ cat index.md
 Hello World!
-{% highlight bash %}
+```
+```bash
 ~$ cat description.md
 little pills of experience and personal projects
-{% highlight bash %}
+```
+```bash
 ~$ ls
-{% endhighlight %}
+```
