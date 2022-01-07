@@ -4,7 +4,7 @@ layout: page
 permalink: /scrot
 ---
 ```bash
-$ ls
+~$ ls
 ```
 <p>&nbsp;</p>
 ax - [KISS]
