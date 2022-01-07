@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Teclast F7 Plus - Best buy 2020 for Unix/Linux
+title:  "UmbrellaNet Linked"
 ---
 {% highlight bash %}
 $ cat ABOUT
