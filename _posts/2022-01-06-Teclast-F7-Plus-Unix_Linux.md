@@ -26,20 +26,20 @@ $ cat TF7P_hardware.md
 $ cat experiment.md
 {% endhighlight %}
 
-### UNIX - OpenBSD/FreeBSD 
->I was fascinated by the build quality of the laptop but very skeptical of hardware support being a very low cost laptop. First thing i thought: probable huge problems with bluetooth and wireless. After a short search on the net I found someone who has tried the same thing before me. Reference: [OPENBSD on Teclast F7 PLUS]. At this point it is mandatory to try for yourself.
+## UNIX - OpenBSD/FreeBSD 
+I was fascinated by the build quality of the laptop but very skeptical of hardware support being a very low cost laptop. First thing i thought: probable huge problems with bluetooth and wireless. After a short search on the net I found someone who has tried the same thing before me. Reference: [OPENBSD on Teclast F7 PLUS]. At this point it is mandatory to try for yourself.
 - First step: OpenBSD installed. The current version is OpenBSD 7.0 released on October 14, 2021.
 - Second step: FuguIta (Swiss Army Knife) with small differences in firmware management. Recognition of system peripherals in live with USB boot and second data disk key. No problem.
 - Third step: Freebsd 13.
 The result was surprising. The hardware support almost completely reflects the evaluations of the cited article.
 
-### Linux
->I usually use other distributions on my ideal day. It is known that I don't like systemd centralized but for this test I needed very up-to-date software. I also checked the Teclast's behavior with adapters, extensions, cables, usb2 type external hard drives and type C external sound card. Compulsory comparison for me to do with my very old Asus laptop. 
+## Linux
+I usually use other distributions on my ideal day. It is known that I don't like systemd centralized but for this test I needed very up-to-date software. I also checked the Teclast's behavior with adapters, extensions, cables, usb2 type external hard drives and type C external sound card. Compulsory comparison for me to do with my very old Asus laptop. 
 - I have installed arch linux without problems and in a fully functional way. I've changed some firmware-related boot and kernel options, but I'll talk about that later. Everything works out of the box including energy management.
-### Result 
+## Result 
 I found a great laptop for myself at a very low cost and suitable for everyday use. Exception for audio. It is really poor. For this reason I have connected a Steinberg UR22 sound card and it seems to work well for my business needs.
 
-### so?
+## And ?
 it is the best wrong buy finished well for me. I can only consider it a great purchase for those who want a cheap laptop to devote to unix/linux. The best solution of 2021 just ended. Highly recommended.
 
 {% highlight bash %}
