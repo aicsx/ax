@@ -4,7 +4,7 @@ layout: page
 permalink: /scrot
 ---
 {% highlight bash %}
-$ ls
+~$ ls
 {% endhighlight %}
 <p>&nbsp;</p>
 ax - [KISS]
@@ -19,7 +19,7 @@ ax - [SPARK]
 ax - [ARCH]
 - ![ax-ARCH](/images/scrot/ax-gnome.png){:class="img-responsive" :height="800px" width="600px"}
 {% highlight bash %}
-$ cat NOTE.md
+~$ cat NOTE.md
 {% endhighlight %}
 *for full resolution open image in new tab*
 
