@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WARNING: consolefont: no font found in configuration"
-date: 2022-01-08 00:40:15 +0200
+date: 2022-01-08 02:18:15 +0200
 categories: blog
 ---
 As mentioned for a [possible missing firmware] in the previous article I noticed another annoying warning from mkinitcpio always on arch linux. I quote:
