@@ -9,9 +9,9 @@ As already mentioned in a previous article, I use Teclast F7 Plus on a daily bas
 - Boot completed > "no tearing"
 - Display manager > "no tearing"
 - Login screen > User selection > "first soft tear"
-- Password > "at this point the misalignment of the image is very visible. Hard tear"
+- Password > "at this point the misalignment of the image is very visible. Hard tear"\
 \
-**Fake solution (use case: no time to waste with xorg)**
+**Fake solution (use case: no time to waste with xorg)**\
 Close the screen or activate the screen lock. Energy management will do the rest. Reopen the screen, unlock it and there will be no more tear issues until the next reboot. "Used initially for a few days. I had urgent work to do. I didn't have time to devote to the problem. Passable with trick. Until it got boring and I remembered I didn't fix it". 
 #### Fix
 **NOTE: initramfs and kms steps described for arch (I'm using it on Teclast).**
