@@ -46,7 +46,7 @@ This is my personal home project. I have no responsibility for any damage caused
 
 #### Pictures
 
-<img src="https://raw.githubusercontent.com/aicsx/Hackintosh-Asus-Prime-H310M-K-R2.0/main/screenshot/Schermata%202022-04-22%20alle%2022.10.01.png" width="800" height="600">
+<img src="https://raw.githubusercontent.com/aicsx/Hackintosh-Asus-Prime-H310M-K-R2.0/main/screenshot/Schermata%202022-04-22%20alle%2022.10.01.png" width="600" height="400">
 
 ## Update Monterey 12.4
 
