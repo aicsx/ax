@@ -46,14 +46,18 @@ This is my personal home project. I have no responsibility for any damage caused
 
 #### Pictures
 
-<img src="https://raw.githubusercontent.com/aicsx/Hackintosh-Asus-Prime-H310M-K-R2.0/main/screenshot/Schermata%202022-04-22%20alle%2022.10.01.png" width="450" height="450">
+<img src="https://raw.githubusercontent.com/aicsx/Hackintosh-Asus-Prime-H310M-K-R2.0/main/screenshot/Schermata%202022-04-22%20alle%2022.10.01.png" width="800" height="600">
 
-## update Monterey 12.4
+## Update Monterey 12.4
 
 ![Update](https://raw.githubusercontent.com/aicsx/Hackintosh-Asus-Prime-H310M-K-R2.0/main/screenshot/Update.png)
 
 I have updated to the latest version xcode, python and macOS Monterey 12.4. After 24 minutes everything is ok! you can upgrade without additional steps.
 
-### Bugfix 
+## UPDATE2 Monterey at latest SEPTEMBER 2022
+
+I have updated to the latest version of Monterey. NO PROBLEMS WITH APPLE AUTO-UPDATE. IT'S ALL OK.
+
+### (NO) Bugfix 
 
 The latest update enables FaceTime and iMessage. Work fully!
