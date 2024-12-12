@@ -18,21 +18,21 @@ ax - [SPARK]
 <p>&nbsp;</p>
 ax - [ARCH]
 - ![ax-ARCH](/images/scrot/ax-arch.png){:class="img-responsive" :height="800px" width="600px"}
-```
-**ax's everforest theme**
-color: _everforest_
-wm: _i3_
-bar: _polybar_
-notify: _dunst_
-menu: _rofi_
-browser: _firefox/chrome_
-file manager: _ranger/thunar_
-music: _tauon_
-terminal: _alacritty/kitty_
-shell: _bash_
-personal scripts: _info (fastfect)_
-compositor: _picom_
-editor: _vim_
+```bash
+~$ file ax - ARCH
+color: everforest
+wm: i3
+bar: polybar
+notify: dunst
+menu: rofi
+browser: firefox/chrome
+file manager: ranger/thunar
+music: tauon
+terminal: alacritty/kitty
+shell: bash
+personal scripts: info (fastfect)
+compositor: picom
+editor: vim
 ```
 ```bash
 ~$ cat NOTE.md
