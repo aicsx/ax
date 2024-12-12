@@ -20,7 +20,7 @@ ax - [SPARK]
 - ![ax-SPARK](/images/scrot/ax-spark.png){:class="img-responsive" :height="800px" width="600px"}
 <p>&nbsp;</p>
 ax - [ARCH]
-- ![ax-ARCH](/images/scrot/ax-gnome.png){:class="img-responsive" :height="800px" width="600px"}
+- ![ax-ARCH](/images/scrot/ax-arch.png){:class="img-responsive" :height="800px" width="600px"}
 ```bash
 ~$ cat NOTE.md
 ```
