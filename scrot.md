@@ -19,18 +19,23 @@ ax - [SPARK]
 ax - [ARCH]
 - ![ax-ARCH](/images/scrot/ax-arch.png){:class="img-responsive" :height="800px" width="600px"}
 ```bash
+# ax's everforest rice
+
+color: everforest
 wm: i3
 bar: polybar
 notify: dunst
 menu: rofi
-browser: firefox
+browser: firefox/chrome
 file manager: ranger/thunar
 music: tauon
-terminal: alacritty
+terminal: alacritty/kitty
 shell: bash
 personal scripts: info (fastfect)
 compositor: picom
+editor: vim
 ```
+<p>&nbsp;</p>
 ```bash
 ~$ cat NOTE.md
 ```
