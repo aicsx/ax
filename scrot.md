@@ -30,7 +30,8 @@ shell: bash
 personal scripts: info (fastfect)
 compositor: picom
 editor: vim
-- ![ax-ARCH](/images/scrot/ax-arch.png){:class="img-responsive" :height="800px" width="600px"}
+![ax-ARCH](/images/scrot/ax-arch.png){:class="img-responsive" :height="800px" width="600px"}
+-
 ```bash
 ~$ cat NOTE.md
 ```
