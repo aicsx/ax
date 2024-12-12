@@ -17,7 +17,7 @@ ax - [SPARK]
 - ![ax-SPARK](/images/scrot/ax-spark.png){:class="img-responsive" :height="800px" width="600px"}
 <p>&nbsp;</p>
 ax - [ARCH]
-color: everforest, wm: i3, bar: polybar, notify: dunst, menu: rofi, browser: firefox/chrome, file manager: ranger/thunar, music: tauon, terminal: alacritty/kitty, shell: bash, personal scripts: info (fastfect), compositor: picom, editor: vim
+THEME: everforest, WM: i3, BAR: polybar, Notify: dunst, MENU: rofi, BROWSER: firefox/chrome, FILE MANAGER: ranger/thunar, MUSIC: tauon music box, TERMINAL: alacritty/kitty, SHELL: bash, SCRIPT: info (fastfect), COMPOSITOR: picom, EDITOR: vim, GDK-THEME: transparent-ever, ICON: Nordzy-green-dark
 - ![ax-ARCH](/images/scrot/ax-arch.png){:class="img-responsive" :height="800px" width="600px"}
 ```bash
 ~$ cat NOTE.md
