@@ -18,9 +18,8 @@ ax - [SPARK]
 <p>&nbsp;</p>
 ax - [ARCH]
 - ![ax-ARCH](/images/scrot/ax-arch.png){:class="img-responsive" :height="800px" width="600px"}
-```bash
 # ax's everforest rice
-
+```text
 color: everforest
 wm: i3
 bar: polybar
@@ -35,7 +34,6 @@ personal scripts: info (fastfect)
 compositor: picom
 editor: vim
 ```
-<p>&nbsp;</p>
 ```bash
 ~$ cat NOTE.md
 ```
