@@ -18,8 +18,7 @@ ax - [SPARK]
 <p>&nbsp;</p>
 ax - [ARCH]
 - ![ax-ARCH](/images/scrot/ax-arch.png){:class="img-responsive" :height="800px" width="600px"}
-# ax's everforest rice
-```text
+### ax's everforest rice
 color: everforest
 wm: i3
 bar: polybar
@@ -33,7 +32,7 @@ shell: bash
 personal scripts: info (fastfect)
 compositor: picom
 editor: vim
-```
+
 ```bash
 ~$ cat NOTE.md
 ```
@@ -41,6 +40,5 @@ editor: vim
 
 [KISS]: https://kisslinux.org/
 [CRUX]: https://crux.nu/
-[ALPINE]: https://www.alpinelinux.org/
 [SPARK]: https://fleshless.org/pages/spark.html
 [ARCH]: https://archlinux.org/
