@@ -17,9 +17,6 @@ ax - [SPARK]
 - ![ax-SPARK](/images/scrot/ax-spark.png){:class="img-responsive" :height="800px" width="600px"}
 <p>&nbsp;</p>
 ax - [ARCH]
-- ![ax-ARCH](/images/scrot/ax-arch.png){:class="img-responsive" :height="800px" width="600px"}
-```bash
-~$ file ax - ARCH
 color: everforest
 wm: i3
 bar: polybar
@@ -33,7 +30,7 @@ shell: bash
 personal scripts: info (fastfect)
 compositor: picom
 editor: vim
-```
+- ![ax-ARCH](/images/scrot/ax-arch.png){:class="img-responsive" :height="800px" width="600px"}
 ```bash
 ~$ cat NOTE.md
 ```
