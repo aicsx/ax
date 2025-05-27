@@ -4,13 +4,13 @@ layout: home
 permalink: /
 ---
 {% highlight bash %}
-# cat index.md
+~# cat index.md
 {% endhighlight %}
 Hello World!
 {% highlight bash %}
-# cat description.md
+~# cat description.md
 {% endhighlight %}
 little pills of experience and personal projects
 {% highlight bash %}
-# ls
+~# ls
 {% endhighlight %}
