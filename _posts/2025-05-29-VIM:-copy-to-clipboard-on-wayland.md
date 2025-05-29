@@ -29,7 +29,11 @@ xnoremap <silent> <C-c> :w !wl-copy<CR><CR>
 >     :w !{cmd}: write the range to the stdin of cmd
 >     <CR><CR>: two enters are needed otherwise command line waits for another command
 
-Save and exit! THIS IS! 
+```bash
+:wq
+```
+
+THIS IS! 
 
 ---
 
