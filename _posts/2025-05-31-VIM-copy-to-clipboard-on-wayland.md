@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIM: copy to clipboard on wayland"
-date: 2025-05-29 02:17:55 +0200
+date: 2025-05-31 01:07:55 +0200
 categories: blog
 ---
 
