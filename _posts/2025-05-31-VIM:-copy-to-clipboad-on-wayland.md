@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "VIM: copy to clipboard on wayland"
-date: 2025-05-31 01:07:55 +0200
+title: "VIM: copy to clipboad on wayland"
+date: 2025-05-31 01:16:21 +0200
 categories: blog
 ---
-
 # VIM: copy to clipboard on wayland
 
 > I had trouble finding resources so here is what ended up working by adding in ~/.vimrc.
