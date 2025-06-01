@@ -16,14 +16,15 @@ categories: blog
 xnoremap <silent> <C-c> :w !wl-copy<CR><CR>
 ```
 
-> This line add key "Control + C" for copy to clipboard 
->
-> NOTE: Before you copy the content to the clipboard, you may want to select some specific lines or maybe all of them. The command is to be used after line selection in VISUAL mode.
->     xnoremap: mapping will work in visual mode only
->     <silent>: mapping which will not be echoed on the command line
->     <C-c>: desired key combination
->     :w !{cmd}: write the range to the stdin of cmd
->     <CR><CR>: two enters are needed otherwise command line waits for another command
+This line add key "Control + C" for copy to clipboard 
+
+ NOTE: Before you copy the content to the clipboard, you may want to select some specific lines or maybe all of them. The command is to be used after line selection in VISUAL mode
+
+ xnoremap: mapping will work in visual mode only
+ <silent>: mapping which will not be echoed on the command line
+ <C-c>: desired key combination
+ :w !{cmd}: write the range to the stdin of cmd
+ <CR><CR>: two enters are needed otherwise command line waits for another command
 
 ```bash
 :wq
