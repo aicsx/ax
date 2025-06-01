@@ -6,14 +6,11 @@ categories: blog
 ---
 
 # VIM: copy to clipboard on wayland
-
 > I had trouble finding resources so here is what ended up working by adding in ~/.vimrc.
 
 {% highlight bash %}
-
 ~$ vim .vimrc
-
-{% endlight %}
+{% endhighlight %}
 
 ```bash
 xnoremap <silent> <C-c> :w !wl-copy<CR><CR>
