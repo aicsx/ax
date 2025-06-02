@@ -31,7 +31,7 @@ xnoremap: mapping will work in visual mode only
 :wq
 ```
 
-THIS IS! 
+That's it!
 
 ---
 (END)

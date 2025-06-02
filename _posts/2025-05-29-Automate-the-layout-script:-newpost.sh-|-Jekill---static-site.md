@@ -143,7 +143,7 @@ fi
 printf "%bBuon lavoro!%b\n" "$COLOR_INFO" "$COLOR_RESET"
 ```
 
-> Run the script with -h, -help and -d, --desc parameters to check for options. This is!
+> Run the script with -h, -help and -d, --desc parameters to check for options. That's it!
 
 ---
 
