@@ -89,7 +89,7 @@ echo "Subdirectory \"$SUBDIR\" has been cloned into ./$REPO_NAME/$SUBDIR"
 **Usage example:**
 
 ```bash
-./clone_subdir.sh https://github.com/user/project.git "path/to/sobdirectory"
+./clone_subdir.sh https://github.com/user/project.git "path/to/subdirectory"
 ```
 
 ## as I mentioned there is an older version. Not necessarily old is worse. In my use case I prefer it because it avoids cloning some basic parts of the base url. That’s why I share it with you. 
@@ -153,7 +153,6 @@ What this version supports:
     ✅ Only checks out the selected path
 
 That's it!
-
 ---
 
 (END)
