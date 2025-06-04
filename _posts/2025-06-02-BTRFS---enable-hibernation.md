@@ -19,26 +19,26 @@ I created the following subvolumes in the partition: @, @home, @swap, @cache, @l
 
 ### Subvolumes.1 
 
-```
+{% highlight bash %}
 ~# btrfs subvolume create /swap
-```
+{% endhighlight %}
 
 *Tip: Consider creating the subvolume directly below the top-level subvolume, e.g. @swap. Then, make sure the subvolume is mounted to /swap (or any other accessible location).*
 
 ### Generate the swapfile
 
-```
+{% highlight bash %}
 ~# pacman -S btrfs-progs
 ~# btrfs filesystem mkswapfile --size <your ram size>G --uuid clear /swap/swapfile
-```
+{% endhighlight %}
 
 > NOTE: To make hibernation work you need to ensure that the swapfile space is equal to your RAM size. 
 
 ### Activate the swapfile:
 
-```
+{% highlight bash %}
 ~# swapon /swap/swapfile
-```
+{% endhighlight %}
 
 > now you can check that it is up and running. Later you can add the config to fstab to make the change permanent!
 
@@ -52,9 +52,9 @@ Swap:           35Gi          0B        35Gi
 
 ### Fstab - permanent mount  
 
-```
+{% highlight bash %}
 ~# echo "/swap/swapfile none swap defaults 0 0" | tee -a /etc/fstab
-```
+{% endhighlight %}
 
 > the result will be similar to the following
 
@@ -87,9 +87,9 @@ UUID=47e97784-1585-46ff-ba9b-e07ec8173824	/var/log  	btrfs     	rw,relatime,ssd,
 
 ### Edit mkinitcpio.conf
 
-```
+{% highlight bash %}
 ~# sed -i 's/\(filesystems\)/\1 resume/' /etc/mkinitcpio.conf
-```
+{% endhighlight %}
 
 > NOTE: the command will add the resume parameter to the HOOKS list. Make sure it looks like the following example. 
 
