@@ -11,7 +11,7 @@ categories: blog
 >
 > To understand we take a repo . git that contains subdirectories and let’s make a practical example of how to download one of the folders present individually
 
-**EXAMPLE 1**: repo is *https://github.com/aicsx/dots.git* and I just want to clone **.vim/colors/** . Let's go!
+**EXAMPLE1**: repo is *https://github.com/aicsx/dots.git* and I just want to clone **.vim/colors/**. Let's go!
 
 ```bash
 ❯ git clone --filter=blob:none --no-checkout https://github.com/aicsx/dots.git && cd dots
@@ -89,7 +89,7 @@ echo "Subdirectory \"$SUBDIR\" has been cloned into ./$REPO_NAME/$SUBDIR"
 **Usage example:**
 
 ```bash
-./clone_subdir.sh https://github.com/user/project.git "path/to/subdirectory"
+~$ ./clone_subdir.sh https://github.com/user/project.git "path/to/subdirectory"
 ```
 
 ## as I mentioned there is an older version. Not necessarily old is worse. In my use case I prefer it because it avoids cloning some basic parts of the base url. That’s why I share it with you. 
@@ -139,20 +139,19 @@ echo "Subdirectory \"$SUBDIR\" has been cloned into ./$REPO_NAME/$SUBDIR"
 **USAGE EXAMPLE**:
 
 ```bash
-./clone_subdir_compat.sh https://github.com/user/project.git "src/components"
+~$ ./clone_subdir_compat.sh https://github.com/user/project.git "src/components"
 ```
 
 What this version supports:
 
     ✅ Older Git versions (≥ 1.7.0)
-    
     ✅ Manual sparse-checkout using .git/info/sparse-checkout
-    
     ✅ Submodules located inside the subdirectory
-    
     ✅ Only checks out the selected path
 
 That's it!
+---
+
 ---
 
 (END)
